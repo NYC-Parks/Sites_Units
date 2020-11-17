@@ -1,16 +1,30 @@
 ---
 name: Sites and Units Issue Template
 about: Gather issues specific to the sites and units project.
-id (omppropid or gispropnum): ID
-Asset Class (property, zone, playground, greenstreet): ''
-What is the issue: ''
-What systems does this issue impact (Daily Tasks, AMPS, Supervisor Inspections): ''
-What system do you think has the authoritative data?: ''
-Screenshots (optional): ''
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+# What is the ID where the issue exists?
+Enter the (omppropid or gispropnum) or identifier
+
+# Which type of feature is this?
+- [ ] property
+- [ ] zone
+- [ ] playground
+- [ ] greenstreet
+
+# What is the issue?
+Describe the type of issue that you're having.
+
+# What systems does this issue impact?
+- [ ] Daily Tasks
+- [ ] AMPS
+- [ ] Supervisor Inspections
+
+# Screenshots
+Optional
 
 
